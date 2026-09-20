@@ -559,6 +559,12 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 - [k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol) - Graph-based memory for faster context and safer refactors
 </details>
 
+<details>
+<summary><strong>Writing & Storytelling</strong></summary>
+
+- [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 8 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, chapters, continuity)
+</details>
+
 ---
 
 ## Skill Quality Standards
