@@ -45,6 +45,7 @@ That's it. No installation. No configuration. No coding required.
   - [Productivity and Collaboration](#productivity-and-collaboration)
   - [Development and Testing](#development-and-testing)
   - [Context Engineering](#context-engineering)
+  - [Writing & Storytelling](#writing--storytelling)
 - [Skill Quality Standards](#skill-quality-standards)
 - [Using Skills](#using-skills)
 - [Creating Skills](#creating-skills)
@@ -562,7 +563,7 @@ Install from [microsoft/agent-skills](https://github.com/microsoft/agent-skills)
 <details>
 <summary><strong>Writing & Storytelling</strong></summary>
 
-- [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 8 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, chapters, continuity)
+- [danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills) - 16 skills for planning, tracking, and drafting fiction in markdown (worldbuilding, characters, plot, scenes, chapters, revision, continuity), plus a CLI that checks continuity
 </details>
 
 ---
